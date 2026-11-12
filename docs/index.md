@@ -13,4 +13,4 @@ Actions.
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://bdlgg.github.io/devops-docs/`.
-
+[Несуществующая страница](missing-page.md)
